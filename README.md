@@ -9,7 +9,7 @@
     <a href="https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK/hub"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="https://sunnyside-agency-page-johnmaizo.netlify.app/">View Demo</a>
+    <a href="https://four-card-section-johnmaizo.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -25,8 +25,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 <h2 align="center">Links</h2>
 
-- Solution URL: [Four card feature section using HTML and CSS | Frontend Mentor](https://www.frontendmentor.io/solutions/sunnyside-agency-landing-page-using-html-and-sass-5P5TPlcGlN)
-- Live Site URL: [https://sunnyside-agency-page-johnmaizo.netlify.app/](https://sunnyside-agency-page-johnmaizo.netlify.app/)
+- Solution URL: [Four card feature section using HTML and SCSS | Frontend Mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-using-html-and-scss-G-kC8eLfjL)
+- Live Site URL: [https://four-card-section-johnmaizo.netlify.app/](https://four-card-section-johnmaizo.netlify.app/)
 
 <br>
 
