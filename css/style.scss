@@ -47,7 +47,7 @@ main {
 
     .box {
         background-color: #fff;
-        box-shadow: 0 1em 1em rgba(0, 0, 0, 0.119);
+        box-shadow: 0 1em 1em hsla(212, 86%, 64%, 0.4);
         padding: 2em;
         
         border-radius: 8px;
@@ -100,8 +100,8 @@ main {
 @media (max-width: 49.95em) {
     .container {
         max-width: 1440px;
-        padding-inline: 2em;
         margin-inline: auto;
+        width: 80%;
     }
 
     main {
@@ -128,6 +128,11 @@ main {
 
         display: grid;
         place-content: center;
+
+        .title {
+            width: 50%;
+            margin-inline: auto;
+        }
 
         .box {
             max-width: 23em;
